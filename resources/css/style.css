@@ -1,0 +1,29 @@
+html {
+  background-color: black;
+  text-align: center;
+}
+
+.header {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+
+.download {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+.header2 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+p {
+  font-family: Verdana;
+  font-size: 23px;
+  color: gray;
+}
